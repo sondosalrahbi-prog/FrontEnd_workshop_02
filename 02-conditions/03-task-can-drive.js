@@ -6,3 +6,15 @@
 // Print "Can drive" or "Cannot drive".
 
 // your code here
+
+const Age = 18;
+const hasLicense = true;
+
+if (Age >= 18 && hasLicense){
+    console.log("can drive")
+
+}else {
+    console.log("cannot drive")
+
+    
+}

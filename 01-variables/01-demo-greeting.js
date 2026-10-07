@@ -9,6 +9,7 @@
 
 const name = "Salim";
 let age = 20;
+
 const isStudent = true;
 
 console.log(name);

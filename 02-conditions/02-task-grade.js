@@ -6,3 +6,18 @@
 // Try changing score a few times to test every branch.
 
 // your code here
+
+
+const score = 100;
+
+
+if (score > 91) {
+    console.log("A")
+}
+else if (score < 80) { console.log("B"); }
+else if (score < 70) { console.log("C"); }
+
+else if (score < 60) { console.log("D"); }
+
+
+

@@ -6,3 +6,9 @@
 // Print: "I am 20 years old = 240 months = 7300 days"
 
 // your code here
+
+
+let myAge = 24;
+Age_Months = myAge * 12 
+Age_Days = myAge * 365 
+console.log(`I am ${myAge}  years old = ${Age_Months} months = ${Age_Days} days`);
